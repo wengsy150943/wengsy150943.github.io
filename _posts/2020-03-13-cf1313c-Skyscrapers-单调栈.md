@@ -1,20 +1,15 @@
-
-
 ---
 title: "cf1313c-Skyscrapers-单调栈"
-
 excerpt_separator: "`<!--more-->`"
-
 categories:
-
   - Test Solve
-
 tags:
-
-  - 
-
-
+  -
+header:
+  overlay_image: /assets/images/header.png
+  overlay_filter: 0.5
 ---
+
 C. Skyscrapers
 
 The outskirts of the capital are being actively built up in Berland. The company "Kernel Panic" manages the construction of a residential complex of skyscrapers in New Berlskva. All skyscrapers are built along the highway. It is known that the company has already bought n plots along the highway and is preparing to build n skyscrapers, one skyscraper per plot.
@@ -59,7 +54,7 @@ inputCopy
 outputCopy
 
 ```
-10 6 6 
+10 6 6
 ```
 
 Note
@@ -127,5 +122,5 @@ int main(){
 		cout<<ans[i];
 	}
 	cout<<endl;
-} 
+}
 ```

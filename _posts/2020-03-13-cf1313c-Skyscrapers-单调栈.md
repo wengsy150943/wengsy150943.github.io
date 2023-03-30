@@ -6,8 +6,7 @@ categories:
 tags:
   -
 header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  image: /assets/images/header.jpg
 ---
 
 C. Skyscrapers

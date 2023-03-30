@@ -7,8 +7,7 @@ tags:
   - Windows
   - Scoop
 header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  image: /assets/images/header.jpg
 ---
 
 scoop 是可用于 windows 的一款包管理工具，今天试着安装了一下，在这里记录一些遇到的问题和解决方法。

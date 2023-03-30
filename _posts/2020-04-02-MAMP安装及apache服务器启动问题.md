@@ -7,8 +7,7 @@ tags:
   - Windows
   - MAMP
 header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  image: /assets/images/header.jpg
 ---
 
 > 看解决方案直接拉到底部总结

@@ -7,8 +7,7 @@ tags:
   - mongodb
   - Python
 header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  image: /assets/images/header.jpg
 ---
 
 > 以下内容均基于 WIN10 环境

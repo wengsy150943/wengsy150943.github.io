@@ -7,8 +7,7 @@ tags:
   - Windows
   - powershell
 header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  image: /assets/images/header.jpg
 ---
 
 最近在 jekyll 上写博客，上传的时候总是要加头部有点烦。于是今天用 powershell 写了一个脚本，实现给 md 文件加 yaml 头部，结果发现 powershell 对中文着实不友好，本来一个简单的事情折腾了大半天。在这里总结一下。

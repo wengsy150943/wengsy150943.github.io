@@ -3,10 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
+header:
+  image: /assets/images/header.jpg
 author_profile: true
 ---
 
-## About me
+## Introduction
 
 Weng Siyang is a PhD candidate student of East China Normal University (ECNU). He received a BS degree in Data Science and Engineering from ECNU in 2022. His current research interests include transaction processing, data management and database testing.
 

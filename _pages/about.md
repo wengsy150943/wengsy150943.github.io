@@ -20,4 +20,5 @@ title: "About"
   - TiDB的`show create table`表现和MySQL不一致,[issue3](https://github.com/pingcap/tidb/issues/43730)
   - TiDB和MySQL的谓词中括号会影响浮点数的运算结果,[issue1](https://github.com/pingcap/tidb/issues/44154),[issue2](https://bugs.mysql.com/bug.php?id=111142)
   - TiDB对空表查询的基数预估不准确,[issue](https://github.com/pingcap/tidb/issues/44563)
+  - TiDB的Multiple Rocksdb会占用大量磁盘空间,无法有效删除,[issue](https://github.com/pingcap/tidb/issues/44894)
 

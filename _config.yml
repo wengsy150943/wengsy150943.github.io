@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "WengSY"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo.png"
   bio    : "摸了."
   links:
     - label: "GitHub"

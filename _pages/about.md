@@ -21,4 +21,5 @@ title: "About"
   - TiDB和MySQL的谓词中括号会影响浮点数的运算结果,[issue1](https://github.com/pingcap/tidb/issues/44154),[issue2](https://bugs.mysql.com/bug.php?id=111142), comfirmed
   - TiDB对空表查询的基数预估不准确,[issue](https://github.com/pingcap/tidb/issues/44563), comfirmed
   - TiDB的Multiple Rocksdb会占用大量磁盘空间,无法有效删除,[issue](https://github.com/pingcap/tidb/issues/44894), fixed
+  - TiDB在某些情况下无法正常创建索引,[issue](https://github.com/pingcap/tidb/issues/45624), comfirmed(fixed?)
 

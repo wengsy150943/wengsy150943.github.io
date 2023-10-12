@@ -25,6 +25,7 @@ title: "About"
   - TiDB在某些情况下无法正常创建索引,[issue](https://github.com/pingcap/tidb/issues/45624), comfirmed(fixed?)
   - PostgreSQL 对CHAR的类型转换不符合预期,[issue](https://www.postgresql.org/message-id/tencent_57E520E634A739CC1F11E471%40qq.com), will not fix
   - TiDB 含子查询的写操作读取了错误的快照,[issue](https://github.com/pingcap/tidb/issues/45677)
+  - TiDB RR隔离级别下可能读取重复的unique key,[issue](https://github.com/pingcap/tidb/issues/46900), comfirmed, duplicate
   - TiDB DROP DATABASE不会被阻塞,[issue](https://github.com/pingcap/tidb/issues/46943), comfirmed
   - OceanBase中运算顺序会影响与浮点相关的JOIN结果,[issue](https://github.com/oceanbase/oceanbase/issues/1590), will not fix
 

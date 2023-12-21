@@ -19,6 +19,8 @@ Weng Siyang is a PhD candidate student of East China Normal University (ECNU). H
 
 ## Awards
 
+1. 2023.12 TOP 100 Benchmarks & Evaluation Achievement Award, International Open Benchmark Council
+1. 2023.11 Second Price, OpenAtom Open Source Competition 
 1. 2022.07 First Prize Excellent Student & Active Participation Award, VLDB Summer School 
 1. 2022.06 Outstanding Graduate of Shanghai
 1. 2022.05 Silver Medal, OceanBase Database Competition

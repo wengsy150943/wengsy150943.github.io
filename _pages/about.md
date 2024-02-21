@@ -28,5 +28,6 @@ title: "About"
   - TiDB RR隔离级别下可能读取重复的unique key,[issue](https://github.com/pingcap/tidb/issues/46900), comfirmed, duplicate
   - TiDB DROP DATABASE不会被阻塞,[issue](https://github.com/pingcap/tidb/issues/46943), comfirmed
   - OceanBase中运算顺序会影响与浮点相关的JOIN结果,[issue](https://github.com/oceanbase/oceanbase/issues/1590), will not fix
-  - TiDB的BLOB类型的join结果不正确,[issue](https://github.com/pingcap/tidb/issues/50393), comfirmed
+  - TiDB的BLOB类型的join结果不正确,[issue](https://github.com/pingcap/tidb/issues/50393), fixed
+  - TiDB(TiFlash)的BLOB类型的join结果同样不正确,[issue](https://github.com/pingcap/tiflash/issues/8776), comfirmed
 

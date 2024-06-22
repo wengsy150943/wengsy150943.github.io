@@ -15,10 +15,10 @@ Weng Siyang is a PhD candidate student of East China Normal University (ECNU). H
 ## Publications
 
 1. **Weng Siyang**, Yu Rong, Wang Qingshuai, Hu Zirui, Ni Lyu, Zhang Rong, Zhou Xuan, Zhou Aoying, Xu Quanqing, Yang Chuanhui, Liu Wei, Yang Panfei. The Benchmarking Ability of HTAP Benchmarks.  Journal of Software , 2024.
-1. **Weng Siyang**, Wang QingShuai, Qu Luyi, Zhang Rong, Cai Peng, Qian Weining, Zhou Aoying. Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance. IEEE Transactions on Knowledge and Data Engineering, 2024. 
+1. **Weng Siyang**, Wang QingShuai, Qu Luyi, Zhang Rong, Cai Peng, Qian Weining, Zhou Aoying. Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance. IEEE Transactions on Knowledge and Data Engineering. 36(7): 3180-3194 (2024). 
 1. Liu Peiyuan, **Weng Siyang**, Li Keqiang, Ni Lyu, Yang Chengcheng, Zhang Rong, Qian Weining and Qiao Dian. Leopard: A General Test Suite for Isolation Level Verification. In CIDR 2024.
-1. Keqiang Li, **Siyang Weng**, Peiyuan Liu, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, Jianghang Lou, Gui Huang, Weining Qian and Aoying Zhou. Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels. In ICDE 2023.
-1. Hu ZiRui, **Weng SiYang**, Wang QingShuai, Yu Rong, Xu JingKai, Zhang Rong, Zhou Xuan. Data Sharing Model and Optimization Strategies in HTAP Database Systems. Journal of Software , 2023.
+1. Keqiang Li, **Siyang Weng**, Peiyuan Liu, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, Jianghang Lou, Gui Huang, Weining Qian and Aoying Zhou. Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels. In ICDE 2023 : 722-735 .
+1. Hu ZiRui, **Weng SiYang**, Wang QingShuai, Yu Rong, Xu JingKai, Zhang Rong, Zhou Xuan. Data Sharing Model and Optimization Strategies in HTAP Database Systems. Journal of Software ,2024,35(06):2951-2973.
 
 ## Awards
 

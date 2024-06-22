@@ -32,4 +32,5 @@ title: "About"
   - TiDB(TiFlash)的BLOB类型的join结果同样不正确,[issue](https://github.com/pingcap/tiflash/issues/8776), confirmed
   - TiDB在TTL超时之后可能无法正常结束事务,[issue](https://github.com/pingcap/tidb/issues/49151), fixed
   - TiDB的BLOB类型转换缺失，可能导致结果与MySQL不一致, [issue](https://github.com/pingcap/tidb/issues/53943), confirmed
+  - OceanBase的BLOB类型转换缺失，可能导致结果与MySQL不一致, [issue](https://github.com/oceanbase/oceanbase/issues/2018), confirmed
 

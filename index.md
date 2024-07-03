@@ -14,6 +14,7 @@ Weng Siyang is a PhD candidate student of East China Normal University (ECNU). H
 
 ## Publications
 
+1. Li, Keqiang, **Siyang Weng**, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, and Aoying Zhou. (2024). DBStorm: Generating Various Effective Workloads for Testing Isolation Levels. In Proceedings of the ACM International Symposium on Software Testing and Analysis (ISSTA '24).
 1. **Weng Siyang**, Yu Rong, Wang Qingshuai, Hu Zirui, Ni Lyu, Zhang Rong, Zhou Xuan, Zhou Aoying, Xu Quanqing, Yang Chuanhui, Liu Wei, Yang Panfei. The Benchmarking Ability of HTAP Benchmarks.  Journal of Software , 2024.
 1. **Weng Siyang**, Wang QingShuai, Qu Luyi, Zhang Rong, Cai Peng, Qian Weining, Zhou Aoying. Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance. IEEE Transactions on Knowledge and Data Engineering. 36(7): 3180-3194 (2024). 
 1. Liu Peiyuan, **Weng Siyang**, Li Keqiang, Ni Lyu, Yang Chengcheng, Zhang Rong, Qian Weining and Qiao Dian. Leopard: A General Test Suite for Isolation Level Verification. In CIDR 2024.

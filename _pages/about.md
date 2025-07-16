@@ -40,4 +40,6 @@ title: "About"
   - MySQL 自增列的数值越界检查缺失, [issue](https://bugs.mysql.com/bug.php?id=117563), confirmed
   - MySQL 分区 DDL 会导致并发的单个事务死锁回滚, [issue](https://bugs.mysql.com/bug.php?id=117735), confirmed
   - TiDB 无法检测到特定的死锁, [issue](https://github.com/pingcap/tidb/issues/59781), confirmed
+  - TiDB playground 异常宕机, [issue](https://github.com/pingcap/tidb/issues/62336), confirmed
+  - MariaDB 错误抛出 ERROR 1020 , [issue](https://jira.mariadb.org/browse/MDEV-37208), confirmed
 

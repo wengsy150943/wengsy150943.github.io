@@ -42,4 +42,5 @@ title: "About"
   - TiDB 无法检测到特定的死锁, [issue](https://github.com/pingcap/tidb/issues/59781), confirmed
   - TiDB playground 异常宕机, [issue](https://github.com/pingcap/tidb/issues/62336), confirmed
   - MariaDB 错误抛出 ERROR 1020 , [issue](https://jira.mariadb.org/browse/MDEV-37208), confirmed
+  - MySQL 范围更新部分失败, [issue](https://bugs.mysql.com/bug.php?id=118923), confirmed
 

@@ -14,16 +14,17 @@ Weng Siyang is a PhD candidate student of East China Normal University (ECNU). H
 
 ## Publications
 
-1. **Siyang Weng**, Keqiang Li, Zirui Hu, Lyu Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, and Jianquan Leng.  A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 1–14.
-2. Zirui Hu, **Siyang Weng**, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, and Chuanhui Yang.  Vodka: Rethink Benchmarking Philosophy in HTAP Systems. *Proceedings of the VLDB Endowment (PVLDB)*, 19(3): 481–494.
-3. Haopu Dong, Zirui Hu, Chenhao Lu, **Siyang Weng**, Qingsong Ruan, and Rong Zhang.  Memory-Aware Query Optimization. *IEEE Big Data*, 7321–7329.
-4. Xuhua Huang, Zirui Hu, **Siyang Weng**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, and Quanqing Xu.  A Query-Aware Enormous Database Generator for System Performance Evaluation.  *SIGMOD Conference Companion*, 131–134.
-5. Keqiang Li, **Siyang Weng**, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, and Aoying Zhou.  DBStorm: Generating Various Effective Workloads for Testing Isolation Levels.  In *Proceedings of the ACM International Symposium on Software Testing and Analysis (ISSTA ’24)*.
-6. **Siyang Weng**, Qingshuai Wang, Luyi Qu, Rong Zhang, Peng Cai, Weining Qian, and Aoying Zhou.  Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance.  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 36(7): 3180–3194.
-7. Peiyuan Liu, **Siyang Weng**, Keqiang Li, Lyu Ni, Chengcheng Yang, Rong Zhang, Weining Qian, and Dian Qiao.  Leopard: A General Test Suite for Isolation Level Verification.  In *Conference on Innovative Data Systems Research (CIDR)*.
-8. **Siyang Weng**, Rong Yu, Qingshuai Wang, Zirui Hu, Lyu Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, and Panfei Yang.  The Benchmarking Ability of HTAP Benchmarks.  *Journal of Software*.
-9. Zirui Hu, **Siyang Weng**, Qingshuai Wang, Rong Yu, Jingkai Xu, Rong Zhang, and Xuan Zhou. Data Sharing Model and Optimization Strategies in HTAP Database Systems.  *Journal of Software*, 35(6): 2951–2973.
-10. Keqiang Li, **Siyang Weng**, Peiyuan Liu, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, Jianghang Lou, Gui Huang, Weining Qian, and Aoying Zhou.  Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels.  In *IEEE International Conference on Data Engineering (ICDE)*, 722–735.
+1. **Siyang Weng**, Hongyu Yang, Zirui Hu, Rong Zhang, Zhicheng Pan, Chengcheng Yang, Xuan Zhou, Yuxing Chen, Xiaolong He, and Anqun Pan. Pisco: An Isolation Bug Case Reduction and Deduplication Framework. *Proceedings of the VLDB Endowment (PVLDB)*, 19(6): 1413 - 1426, 2026.
+2. **Siyang Weng**, Keqiang Li, Zirui Hu, Lyu Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, and Jianquan Leng.  A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 1–14.
+3. Zirui Hu, **Siyang Weng**, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, and Chuanhui Yang.  Vodka: Rethink Benchmarking Philosophy in HTAP Systems. *Proceedings of the VLDB Endowment (PVLDB)*, 19(3): 481–494.
+4. Haopu Dong, Zirui Hu, Chenhao Lu, **Siyang Weng**, Qingsong Ruan, and Rong Zhang.  Memory-Aware Query Optimization. *IEEE Big Data*, 7321–7329.
+5. Xuhua Huang, Zirui Hu, **Siyang Weng**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, and Quanqing Xu.  A Query-Aware Enormous Database Generator for System Performance Evaluation.  *SIGMOD Conference Companion*, 131–134.
+6. Keqiang Li, **Siyang Weng**, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, and Aoying Zhou.  DBStorm: Generating Various Effective Workloads for Testing Isolation Levels.  In *Proceedings of the ACM International Symposium on Software Testing and Analysis (ISSTA ’24)*.
+7. **Siyang Weng**, Qingshuai Wang, Luyi Qu, Rong Zhang, Peng Cai, Weining Qian, and Aoying Zhou.  Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance.  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 36(7): 3180–3194.
+8. Peiyuan Liu, **Siyang Weng**, Keqiang Li, Lyu Ni, Chengcheng Yang, Rong Zhang, Weining Qian, and Dian Qiao.  Leopard: A General Test Suite for Isolation Level Verification.  In *Conference on Innovative Data Systems Research (CIDR)*.
+9. **Siyang Weng**, Rong Yu, Qingshuai Wang, Zirui Hu, Lyu Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, and Panfei Yang.  The Benchmarking Ability of HTAP Benchmarks.  *Journal of Software*.
+10. Zirui Hu, **Siyang Weng**, Qingshuai Wang, Rong Yu, Jingkai Xu, Rong Zhang, and Xuan Zhou. Data Sharing Model and Optimization Strategies in HTAP Database Systems.  *Journal of Software*, 35(6): 2951–2973.
+11. Keqiang Li, **Siyang Weng**, Peiyuan Liu, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, Jianghang Lou, Gui Huang, Weining Qian, and Aoying Zhou.  Leopard: A Black-Box Approach for Efficiently Verifying Various Isolation Levels.  In *IEEE International Conference on Data Engineering (ICDE)*, 722–735.
 
 ### Honors and Awards
 

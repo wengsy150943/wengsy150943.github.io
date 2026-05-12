@@ -43,4 +43,5 @@ title: "About"
   - TiDB playground 异常宕机, [issue](https://github.com/pingcap/tidb/issues/62336), confirmed
   - MariaDB 错误抛出 ERROR 1020 , [issue](https://jira.mariadb.org/browse/MDEV-37208), confirmed
   - MySQL 范围更新部分失败, [issue](https://bugs.mysql.com/bug.php?id=118923), confirmed
+  - TiDB FOR UPDATE SKIP LOCKED on JOIN 元数据解析失败, [issue](https://github.com/pingcap/tidb/issues/67715), confirmed
 

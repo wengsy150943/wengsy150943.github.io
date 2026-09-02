@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-程序员，数据库测试相关，不会 AI
+华东师范大学数据科学与工程博士生（2027 届），现于腾讯 TDSQL 从事存储引擎研发实习。研究方向为数据库正确性测试、分布式事务与存储引擎，累计发现并辅助修复 80+ 个数据库 bug，近期也在探索 LLM 多智能体在测试负载生成与缺陷分析中的应用。
 
 ---
 
@@ -44,4 +44,3 @@ title: "About"
   - MariaDB 错误抛出 ERROR 1020 , [issue](https://jira.mariadb.org/browse/MDEV-37208), confirmed
   - MySQL 范围更新部分失败, [issue](https://bugs.mysql.com/bug.php?id=118923), confirmed
   - TiDB FOR UPDATE SKIP LOCKED on JOIN 元数据解析失败, [issue](https://github.com/pingcap/tidb/issues/67715), confirmed
-

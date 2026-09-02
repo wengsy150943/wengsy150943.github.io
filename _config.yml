@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "WengSY"
   avatar : "/assets/images/photo.png"
-  bio    : "摸了."
+  bio    : "ECNU PhD · database testing & storage engine · Tencent TDSQL intern"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -87,4 +87,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
